@@ -1,0 +1,32 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=1200",
+    "product": "PS5",
+    "buttonText": "Shop Now",
+    "heading": "Advantage",
+    "desc": "Take a good game. Make it great.",
+    "smallText": "The best",
+    "midText": "Gaming",
+    "largeText1": "PS5",
+    "largeText2": "CONSOLE",
+    "discount": "Order now and save 20%",
+    "saleTime": "3 days left",
+    "isHero": true,
+    "isFooter": false
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=1200",
+    "product": "AirPods Pro",
+    "buttonText": "Buy Now",
+    "heading": "New Arrival",
+    "desc": "Best earbuds with noise cancellation.",
+    "smallText": "Sale",
+    "midText": "20% off",
+    "largeText1": "AIRPODS",
+    "largeText2": "PRO",
+    "discount": "Limited time offer",
+    "saleTime": "1 day left",
+    "isHero": false,
+    "isFooter": true
+  }
+]
