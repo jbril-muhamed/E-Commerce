@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Beats Headphones",
+    "slug": "beats-headphones",
+    "price": 99.99,
+    "description": "Premium wireless headphones with noise cancellation.",
+    "details": "Up to 30 hours battery life. USB-C charging. Foldable design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800"
+    ],
+    "quantity": 50,
+    "isFeatured": true
+  },
+  {
+    "name": "Apple Watch Series 8",
+    "slug": "apple-watch-series-8",
+    "price": 399.99,
+    "description": "Stay connected and healthy with the latest Apple Watch.",
+    "details": "Always-on Retina display. Blood oxygen sensor. GPS.",
+    "category": "Wearables",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=800",
+    "images": [
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=800"
+    ],
+    "quantity": 30,
+    "isFeatured": true
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "slug": "sony-playstation-5",
+    "price": 499.99,
+    "description": "Next-gen gaming console with ultra-high-speed SSD.",
+    "details": "4K gaming. Ray tracing. 120 fps support.",
+    "category": "Gaming",
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=800",
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=800"
+    ],
+    "quantity": 20,
+    "isFeatured": true
+  },
+  {
+    "name": "Wireless Keyboard",
+    "slug": "wireless-keyboard",
+    "price": 49.99,
+    "description": "Compact Bluetooth keyboard for PC and Mac.",
+    "details": "Multi-device pairing. Rechargeable battery.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800",
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800"
+    ],
+    "quantity": 100,
+    "isFeatured": false
+  },
+  {
+    "name": "4K Monitor",
+    "slug": "4k-monitor",
+    "price": 329.99,
+    "description": "Ultra-sharp 27-inch 4K display for professionals.",
+    "details": "IPS panel. 144 Hz refresh rate. HDR400.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800",
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800"
+    ],
+    "quantity": 25,
+    "isFeatured": true
+  },
+  {
+    "name": "AirPods Pro",
+    "slug": "airpods-pro",
+    "price": 249.99,
+    "description": "Active noise cancellation earbuds from Apple.",
+    "details": "Spatial audio. Adaptive transparency. H2 chip.",
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=800",
+    "images": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=800"
+    ],
+    "quantity": 80,
+    "isFeatured": true
+  },
+  {
+    "name": "Gaming Mouse",
+    "slug": "gaming-mouse",
+    "price": 59.99,
+    "description": "High-precision gaming mouse with RGB lighting.",
+    "details": "16000 DPI optical sensor. 7 programmable buttons.",
+    "category": "Gaming",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=800",
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?w=800"
+    ],
+    "quantity": 60,
+    "isFeatured": false
+  },
+  {
+    "name": "MacBook Pro 14\"",
+    "slug": "macbook-pro-14",
+    "price": 1999.99,
+    "description": "Apple M3 Pro chip with 18-hour battery life.",
+    "details": "14.2-inch Liquid Retina XDR display. 16 GB RAM. 512 GB SSD.",
+    "category": "Computers",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800"
+    ],
+    "quantity": 15,
+    "isFeatured": true
+  }
+]
